@@ -9,7 +9,7 @@ To use this theme, you'll need a Discord client mod that supports custom CSS the
 
 ## 📁 Requirements
 
-- The `K1ng'sTheme.theme.css` file
+- The `K1ng'sTheme v1.4.0`  zip file
 - One of the following:
   - [BetterDiscord](https://betterdiscord.app/)
   - [Vencord](https://vencord.dev/)
